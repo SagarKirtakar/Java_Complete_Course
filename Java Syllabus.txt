@@ -3,8 +3,8 @@
 Introduction
 Data Types, Variables & Input/Output
 Naming Conventions 
-Literals 📝
-Keywords 🚗
+Literals
+Keywords
 Escape Sequences 
 User Input
 Identifiers
@@ -50,12 +50,8 @@ Random Numbers & Math class
 Final keyword 
 
 Decision-Making Statements or Conditional Statements (If, If else, If else ladder & switch)
-
-Iteration or Looping Statements (Do-while, For, while, For each) 
-
+Iteration or Looping Statements (Do-while, For, while, For each)
 Jump Statements (break & continue & return )
-
-
 
 2nd Chapter:
 Intro to OOPs Principle
