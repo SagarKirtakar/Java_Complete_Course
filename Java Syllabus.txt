@@ -1,0 +1,74 @@
+1st Chapter:
+
+Introduction
+Data Types, Variables & Input/Output
+Naming Conventions 
+Literals 📝
+Keywords 🚗
+Escape Sequences 
+User Input
+Identifiers
+Rules to define Identifiers
+Packages
+Constructor
+Arrays
+Access specifiers
+Type Conversion and Casting
+
+Operators:
+Assignment Operator 
+Arithmetic Operators 
+Order of Operation 
+Shorthand Operators 
+Unary Operators 
+Ternary operator 
+Relational Operators 
+Logical Operators 
+Operator Precedence 
+Intro to Number System 
+Intro to Bitwise Operators 
+
+Methods
+Comments 
+Return statement 
+Arguments 
+Classes & Objects 
+Process vs Object Oriented 
+Instance Variables and Methods
+Declaring and Using Objects
+Class vs Object
+This & Static Keyword 
+Constructors & Code Blocks
+Stack vs Heap Memory
+Primitive vs Reference Types
+Variable Scopes
+Garbage Collection & Finalize
+
+String (toString Method , String class, StringBuffer vs StringBuilder)
+Recursion 
+Random Numbers & Math class 
+Final keyword 
+
+Decision-Making Statements or Conditional Statements (If, If else, If else ladder & switch)
+
+Iteration or Looping Statements (Do-while, For, while, For each) 
+
+Jump Statements (break & continue & return )
+
+
+
+2nd Chapter:
+Intro to OOPs Principle
+Encapsulation
+Inheritance
+Abstraction
+Polymorphism
+Interfaces
+Exception 
+File Handling
+String handling
+Collections & Generics 
+Multithreading & Executor Service
+Functional Programming
+
+
