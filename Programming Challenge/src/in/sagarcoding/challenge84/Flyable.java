@@ -1,4 +1,4 @@
-package in.sagarcoding.challenge83;
+package in.sagarcoding.challenge84;
 
 interface Flyable {
 

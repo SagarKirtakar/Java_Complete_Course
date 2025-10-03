@@ -1,6 +1,6 @@
-package in.sagarcoding.challenge83;
+package in.sagarcoding.challenge84;
 
-public class Eagle extends Bird{
+public class Eagle extends Bird {
 
     public Eagle() {
         super("Eagle");

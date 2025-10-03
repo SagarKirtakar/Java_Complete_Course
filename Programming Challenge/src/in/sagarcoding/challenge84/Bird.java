@@ -1,6 +1,6 @@
-package in.sagarcoding.challenge83;
+package in.sagarcoding.challenge84;
 
-public abstract class Bird implements Flyable{
+public abstract class Bird implements Flyable {
 
     public final String breed;
 
