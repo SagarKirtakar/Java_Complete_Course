@@ -1,4 +1,4 @@
-package in.sagarkirtakar.HelloWorld;
+package in.sagarkirtakar;
 
 public class Hello {
 
