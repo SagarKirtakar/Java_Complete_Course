@@ -1,4 +1,4 @@
-package in.sagarkirtakar.multithreading.runnable;
+package in.sagarkirtakar.executor;
 
 public class PrintTask implements Runnable{
 
