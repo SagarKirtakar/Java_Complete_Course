@@ -6,13 +6,13 @@ Introduction
 
 Data Types, Variables \& Input/Output
 
-Naming Conventions 
+Naming Conventions
 
 Literals
 
 Keywords
 
-Escape Sequences 
+Escape Sequences
 
 User Input
 
@@ -34,41 +34,41 @@ Type Conversion and Casting
 
 Operators:
 
-Assignment Operator 
+Assignment Operator
 
-Arithmetic Operators 
+Arithmetic Operators
 
-Order of Operation 
+Order of Operation
 
-Shorthand Operators 
+Shorthand Operators
 
-Unary Operators 
+Unary Operators
 
-Ternary operator 
+Ternary operator
 
-Relational Operators 
+Relational Operators
 
-Logical Operators 
+Logical Operators
 
-Operator Precedence 
+Operator Precedence
 
-Intro to Number System 
+Intro to Number System
 
-Intro to Bitwise Operators 
+Intro to Bitwise Operators
 
 
 
 Methods
 
-Comments 
+Comments
 
-Return statement 
+Return statement
 
-Arguments 
+Arguments
 
-Classes \& Objects 
+Classes \& Objects
 
-Process vs Object Oriented 
+Process vs Object Oriented
 
 Instance Variables and Methods
 
@@ -76,7 +76,7 @@ Declaring and Using Objects
 
 Class vs Object
 
-This \& Static Keyword 
+This \& Static Keyword
 
 Constructors \& Code Blocks
 
@@ -92,11 +92,11 @@ Garbage Collection \& Finalize
 
 String (toString Method , String class, StringBuffer vs StringBuilder)
 
-Recursion 
+Recursion
 
-Random Numbers \& Math class 
+Random Numbers \& Math class
 
-Final keyword 
+Final keyword
 
 
 
@@ -130,13 +130,13 @@ Interfaces
 
 
 
-Exception 
+Exception
 
 File Handling
 
 String handling
 
-Collections \& Generics 
+Collections \& Generics
 
 Multithreading \& Executor Service
 
@@ -144,7 +144,59 @@ Functional Programming
 
 
 
+* Understanding Basics
+* DSA
+* OOPs
+* Collection
+* Exception 
+* Multithreading
+* jvm
+* Design patterns
+* Database Connectivity
+* Frameworks and Tools
+* Practice Coding Questions HackerRank \& LeetCode
 
 
 
+Tips to Prepare for Java Interviews:
+
+
+
+Master Core Java Concepts – Focus on OOP principles, collections, multithreading, and exception handling.
+
+
+
+Practice Coding Problems – Solve DSA problems using Java on platforms like LeetCode and GeeksforGeeks.
+
+
+
+Understand Java APIs \& Libraries – Learn about Streams, Lambda expressions, and Java 8+ features.
+
+
+
+Work on Real-World Projects – Build small applications using JDBC, Servlets, and Spring Framework.
+
+
+
+Prepare for Common Interview Questions – Revise Java memory management, JVM internals, and design patterns.
+
+
+
+Prepare for Common Interview Questions:
+
+
+
+Behavioral and HR Questions: Be ready to discuss your strengths, weaknesses, career goals, and how you handle challenges.
+
+
+
+Technical Questions: Review common Java interview questions covering core concepts, DSA, and Java 8+ features.
+
+
+
+Brush up on topics like arrays, linked lists, stacks, queues, and basic sorting and searching algorithms. 
+
+
+
+Practice solving coding challenges to enhance your problem-solving skills. Java is an object-oriented language, so expect questions about OOP principles like encapsulation, inheritance, and polymorphism
 
